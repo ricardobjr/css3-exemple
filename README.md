@@ -10,3 +10,4 @@
   2️⃣ Click on the "index.html" file.<br>
   3️⃣ You will be able to navigate between project pages through the links located below the main image: "Home", "Quem somos" and "Contato".<br>
 
+## The project was developed based on what was taught within Udemy's "Desenvolvimento Completo Web" course.
